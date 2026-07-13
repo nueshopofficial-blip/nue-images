@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="0" y="0" width="100" height="100" rx="22.00" ry="22.00" fill="#ECB139"/>
+  <g transform="matrix(1 0 0 -1 0 0)">
+    <path fill="#1A1A1A" transform="matrix(0.036184,0,0,0.036184,22.3191,-73.7763)" d="M232 1500V4H454V0H30V4H228V1496H30V1500ZM1500 1500V1496H1290V-20H1286.0843373493976L230 1500H740L1286 714V1496.1637279596978H1066V1500Z"/>
+  </g>
+</svg>
